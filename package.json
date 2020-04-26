@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/matoliva/NodeJs-Express/issues"
   },
-  "homepage": "https://github.com/matoliva/NodeJs-Express#readme"
+  "homepage": "https://github.com/matoliva/NodeJs-Express#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
 }
